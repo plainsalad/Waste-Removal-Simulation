@@ -29,6 +29,3 @@ The performance of the waste removal strategies is evaluated using the following
 By analyzing these output measurements, we can draw insights into the performance of each strategy under various conditions and evaluate their effectiveness in the waste removal simulation.
 
 For a more in-depth explanation of the strategies, rules, assumptions, and parameters, please refer to the full report in the repository.
-
-## Running the Simulation
-You would need to decompress the 'Waste Removal Simulation - Networks Model.zip' file in order to have a working ipynb file to run the simulation.
